@@ -1,6 +1,6 @@
 import java.sql.*;
 
-import java.sql.*;
+
 
 public class SafeTransferDemo {
     public static void main(String[] args) {
